@@ -10,8 +10,5 @@ Used to create a new series of maps and save them to the Maps directory.
 ### map_path.py ###
 Template file used for completing the homework assignment.  The method *find_path_DFS(map, current, goal, explored, path, depth=0)* will be the one to complete and the signature must remain functional in this form.  You may add more methods if needed.
 
-### map_path_test.py ###
-A test file that contains 11 unit test to test out your method against an expected result.
-
 ### map_display.py ###
 A file that will allow you to display a map in 2D array on the screen.
